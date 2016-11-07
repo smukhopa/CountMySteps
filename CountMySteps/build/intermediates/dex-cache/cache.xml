@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/smukhopadhyay/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/pre-dexed/debug/library-2.4.0-aff808c23d4082c41e003f1d360af79cabde2f10.jar" />
+    </item>
+    <item
+        jar="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/exploded-aar/com.github.bmarrdev/android-DecoView-charting/v0.9.6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8789983f820fedcffc25503047c111773ad09034">
+        <dex dex="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-985a454ebf1326fe93c63e84db455619a9140eb6.jar" />
+    </item>
+    <item
+        jar="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-fd46a4985b5531b44aafa8bc5ff9c373b528a533.jar" />
+    </item>
+    <item
+        jar="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-c42ee47247e3027b256e7812c201c5a32244c03a.jar" />
+    </item>
+    <item
+        jar="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-5658d8a14662516333026b634c9ead06e7be1833.jar" />
+    </item>
+    <item
+        jar="/Users/smukhopadhyay/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-d6f71a3cb480ec05d57bc98df0aaa48eae147fed.jar" />
+    </item>
+    <item
+        jar="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-71265e9d96f0ff590960baab59265d219d22890e.jar" />
+    </item>
+    <item
+        jar="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-0f49141a4b53494e99618649ff95d1550e19e756.jar" />
+    </item>
+    <item
+        jar="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-44ece66cc4a0ec1fc70402321afdfe6e4610950d.jar" />
+    </item>
+    <item
+        jar="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-990c284a536437a9172487d073ccc5e79be4cec9.jar" />
+    </item>
+    <item
+        jar="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-2ffa8441e12c98067172dc6452fdc761021c1849.jar" />
+    </item>
+    <item
+        jar="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-787b0a2c05f3dc9116e78be8ab06d798864dc199.jar" />
+    </item>
+    <item
+        jar="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-13e3bf88bc2f600e5b9ae633839227cc50633cc7.jar" />
+    </item>
+    <item
+        jar="/Users/smukhopadhyay/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.2.4/7abd1ecef320da6a7679b137083151401fe8bf43/MPAndroidChart-v2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v2.2.4-7dd161b59fbd1c484a099de16fac9a35af3539f8.jar" />
+    </item>
+    <item
+        jar="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/smukhopadhyay/AndroidStudioProjects/CountMySteps/app/build/intermediates/pre-dexed/debug/classes-6f37ac42c440cd920facae9cfcd98ea159b7426c.jar" />
+    </item>
+
+</items>
